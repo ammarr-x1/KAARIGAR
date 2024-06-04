@@ -12,10 +12,10 @@ KAARiGAR is a comprehensive home services application designed to connect users 
 
 ## How to Use
 
-2. **Sign Up**: Create a new account or log in with your existing credentials.
-3. **Browse Services**: Explore the range of services available.
-4. **Book a Service**: Select the service you need, choose a professional, and schedule an appointment.
-6. **Booking Details**: View your bookins.
+1. **Sign Up**: Create a new account or log in with your existing credentials.
+2. **Browse Services**: Explore the range of services available.
+3. **Book a Service**: Select the service you need, choose a professional, and schedule an appointment.
+4. **Booking Details**: View your bookins.
 
 ## Installation
 
